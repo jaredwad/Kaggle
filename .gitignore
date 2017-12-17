@@ -106,3 +106,4 @@ ENV/
 # model files
 *.bc
 *.h5
+.kaggle-cli/
