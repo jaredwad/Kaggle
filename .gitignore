@@ -105,3 +105,4 @@ ENV/
 
 # model files
 *.bc
+*.h5
